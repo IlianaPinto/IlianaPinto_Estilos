@@ -1,0 +1,35 @@
+body{
+    background-image:url('https://thumbs.dreamstime.com/t/abstract-background-watercolor-wash-marble-pattern-texture-natural-background-interiors-marble-stone-wall-design-abstract-103544681.jpg')
+}
+
+div.box1 {
+    background: rgb(231, 192, 212);
+    position: absolute;
+    left: 140px;
+    top: 15px;
+    width: 1170px;
+    height: 470px;
+    border: 3px solid white;
+}
+
+
+div.box3 { 
+    position: absolute;
+    left: 8px;
+    top: 15px;
+    width: 120px;
+    height: 600px;
+    text-align: center;
+    background-image:url('https://hdwallsource.com/img/2014/6/magenta-wallpaper-29055-29772-hd-wallpapers.jpg');
+}
+
+div.box2{
+    background-image:url('https://hdwallsource.com/img/2014/6/magenta-wallpaper-29055-29772-hd-wallpapers.jpg');
+    position: absolute;
+    left: 140px;
+    top: 510px;
+    width: 1170px;
+    height: 100px;
+    text-align: center;
+}
+

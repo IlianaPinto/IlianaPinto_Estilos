@@ -1,0 +1,23 @@
+body{
+    background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARQAAAC3CAMAAADkUVG/AAAAvVBMVEUBmYr5WjLRGDfvujCkqkoSnpDXFzf/XTPJFzSpsE30vjEBj38APTX4wjIAaF0AWE6RESftVS+mEyxMABa3FTAAcmUATUXisCyADiLBRSbMnyivPyOUNR2BLBnaTyu3kCQAg3WObxugfR9RQhNkBBt2WxZeRQ2do0ezGzN6Ihxxby1ZDhLUpSpyHhs7MDBSHBBFLjCZcR64PyZOFA84MDCedh+UbB1ILjDDRiZUIBBhtquHKR5eGxNWShhrGhr1XLqkAAAEGklEQVR4nO3dCXLUMBCFYSXESRgIS1hCwh52CPsW1vsfK8xQBcWoJXcLRx75bx3hq9fPM7Ylhw3revLj0eHBGevaOfx+a//ymnVtfXt46eq6dW0+PX/x2rlQur4Gs8mDIpOPL4pMno1gEjorCsDEjEIwsaIgTIwoDBMbCsTEhEIxsaBgTAwoHBM9CshEjUIy0aKgTJQoLBMdCsxEhUIz0aDgTBQoPJN+FKBJLwrRpA8FadKDwjTJo0BNsihUkxwK1iSDwjVJo4BNkihkkxQK2iSBUmjydhomMgo7JzIK3URCwZsIKG4So8A7VkTxnMQonpMYxXMSo7hJjOKzE6N4TmIUz0mM4iYxipvEKG4So7hJjOImMYqbxChuEqO4iYBSts9ryia/UNxEQHETAcVNBBQ3GQBl+iZ2lEKTtYZMzCiAnJhRECZGFMLsWFFKc/KyLRMTSmlOWjOxoFByYkGpa7I7ookehXHdsaFwZkePUrdjR50dNQqoT9QoO59IOdGhwHKiQinMSbsmChRWx+pQcLOjQKF1rAaFmJM+FF7HLlYWBTk7IY8CzUkWZW5yDMxJDgWbkwwKtU/mK4VCNkmhgGcnpFC4HbtYIgo7JzIKPCciCrpjFytGoc9OEFDwsxNiFM9JiFA8J/P1L8qszGTr56RMllEO3t++eceO8u7Kjd1ts8r2h+sX7o0NIK2l8Zkd1VRZX1GV5aJ1lSBckuuqbK6kSvzjrXJWXq2givAz3ydI+kOIz4p464CeFfkmE7xtE7cj2ROUunGNzkryEQc5K+mHYeC2zTw2rTxBK5SV3AN27ARlX8Wgtm3+pR1oVnpe72Kq9L0IiGzb3ldGiVnpf7kYmBXFa+izo9ewrGg2LOCyotraQsuKbhMUrG2V2+VYE6TdWImaIPUWXFJW9Ju1QVkxbOvntK3lAAjMBJmOCqFkxXaoDCQrxuOHGG1rPagKkRXzkWalWdlvSMV++B2gbbuwt9oqY2SlC3cLVKq27ZvqKl24X6Iy7ax04XGRStW2rZ2VLjwvU5ly23bhbKHKhK/MXdioq9JC284/JlCqMtm2XXx2ookJqpiV3x8o8awIKJ4VCaWJtq2m8ufzWHUnaLWvzH8/pOYTJKB420oonhUJxdtWQvGsSCiuIqH4lVlC8axIKK4iobiKhOIqEgq+bUUUelZkFLhKAoWtkkJBqyRRyCpplDZUPp+GSgalDZXTyEoOBauSRaGq5FGgKj0obagM3bZ9KG2oDJyVXpQ2VIbNSj9KGyqDZkWBwlPRoLShMuAEqVBKVfYazYoOpTgrX5rMihKljQkaKitalMoTdDxqVtQobWRlGBU9CqhtDSictrWgtDFBA2TFhFI8QWVZGa1tbShtZOW/VYwojCuzFaVy246jYkYhZKU7AdKcVwaCrjEPAAAAAElFTkSuQmCC');
+}
+
+div.box3 { 
+    position: absolute;
+    left: 8px;
+    top: 15px;
+    width: 1344px;
+    height: 90px;
+    text-align: end;
+    background-color: darkgoldenrod;
+}
+
+div.box1 {
+    background: rgb(192, 220, 231);
+    position: absolute;
+    left: 8px;
+    top: 120px;
+    width: 1344px;
+    height: 370px;
+    border: 3px solid white;
+}

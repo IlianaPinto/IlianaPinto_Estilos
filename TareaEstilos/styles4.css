@@ -1,0 +1,33 @@
+body{
+    background-image:url('http://www.techagesite.com/480x800/great/free-cell-phone-wallpapers-themes-download-480x800-coloured-squares.jpg');
+}
+
+div.box1 {
+    background: rgb(231, 192, 213);
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    width: 1200px;
+    height: 600px;
+    border: 3px solid white;
+    text-align: justify;
+}
+
+div.box2 { 
+    position: absolute;
+    left: 1250px;
+    top: 220px;
+    width: 100px;
+    height: 400px;
+    background-color:purple;
+}
+
+div.box3 { 
+    position: absolute;
+    left: 1250px;
+    top: 15px;
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color:rgb(185, 121, 185);
+}
